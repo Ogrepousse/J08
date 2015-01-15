@@ -2,6 +2,7 @@
 #include <vector>
 #include <set>
 #include <list>
+#include <iostream>
 
 int		main()
 {
